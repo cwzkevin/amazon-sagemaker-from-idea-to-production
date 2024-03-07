@@ -1,0 +1,28 @@
+
+# Replace the value of input_data_url parameter in --kwargs with the value of input_s3_url variable
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.11
+    commands:
+      - pip install --upgrade --force-reinstall . "awscli>1.20.30"
+  
+  build:
+    commands:
+      - export PYTHONUNBUFFERED=TRUE
+      - export SAGEMAKER_PROJECT_NAME_ID="${SAGEMAKER_PROJECT_NAME}-${SAGEMAKER_PROJECT_ID}"
+      - |
+        run-pipeline --module-name pipelines.fromideatoprod.pipeline \
+          --role-arn $SAGEMAKER_PIPELINE_ROLE_ARN \
+          --tags "[{\"Key\":\"sagemaker:project-name\",\"Value\":\"${SAGEMAKER_PROJECT_NAME}\"}, {\"Key\":\"sagemaker:project-id\", \"Value\":\"${SAGEMAKER_PROJECT_ID}\"}]" \
+          --kwargs "{ \
+                \"input_data_url\":\"s3://sagemaker-us-east-1-598716374401/from-idea-to-prod/xgboost/input/bank-additional-full.csv\", \
+                \"region\":\"${AWS_REGION}\", \
+                \"sagemaker_project_arn\":\"${SAGEMAKER_PROJECT_ARN}\", \
+                \"sagemaker_project_id\":\"${SAGEMAKER_PROJECT_ID}\", \
+                \"role\":\"${SAGEMAKER_PIPELINE_ROLE_ARN}\", \
+                \"default_bucket\":\"${ARTIFACT_BUCKET}\" \
+                    }"
+      - echo "Create/Update of the SageMaker Pipeline and execution completed."
