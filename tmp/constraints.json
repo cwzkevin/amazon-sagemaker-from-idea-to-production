@@ -1,0 +1,430 @@
+{
+  "version" : 0.0,
+  "features" : [ {
+    "name" : "_c0",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c1",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c2",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c3",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c4",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c5",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c6",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c7",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c8",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c9",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c10",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c11",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c12",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c13",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c14",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c15",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c16",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c17",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c18",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c19",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c20",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c21",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c22",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c23",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c24",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c25",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c26",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c27",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c28",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c29",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c30",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c31",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c32",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c33",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c34",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c35",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c36",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c37",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c38",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c39",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c40",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c41",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c42",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c43",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c44",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c45",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c46",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c47",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c48",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c49",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c50",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c51",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c52",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c53",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c54",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c55",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c56",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c57",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  }, {
+    "name" : "_c58",
+    "inferred_type" : "Integral",
+    "completeness" : 1.0,
+    "num_constraints" : {
+      "is_non_negative" : true
+    }
+  } ],
+  "monitoring_config" : {
+    "evaluate_constraints" : "Enabled",
+    "emit_metrics" : "Enabled",
+    "datatype_check_threshold" : 1.0,
+    "domain_content_threshold" : 1.0,
+    "distribution_constraints" : {
+      "perform_comparison" : "Enabled",
+      "comparison_threshold" : 0.1,
+      "comparison_method" : "Robust",
+      "categorical_comparison_threshold" : 0.1,
+      "categorical_drift_method" : "LInfinity"
+    }
+  }
+}
